@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohankorale
 - 👀 I’m interested in programming and sports
 - 🌱 I’m currently learning in Pune, India
-- 📫 You can to reach me @ rohankorale@gmail.com
+- 📫 You can reach out to me @ rohankorale@gmail.com
 
 <!---
 Rohankorale/Rohankorale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
