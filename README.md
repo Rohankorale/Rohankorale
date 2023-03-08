@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohankorale
-- 👀 I’m interested in programming and sports
+- 👀 I’m interested in AI and Ml
 - 🌱 I’m currently learning in Pune, India
 - 📫 You can reach out to me @ rohankorale@gmail.com
 
